@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "dev"
+
+build:
+  version: "9.0dev"
+
+account:
+  message: "Welcome to HDFCdev accounts related local APIs "
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john@eazybank.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345

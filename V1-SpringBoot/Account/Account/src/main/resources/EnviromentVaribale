@@ -1,0 +1,7 @@
+--spring.profiles.active=qa
+where qa->is the profile
+
+if you want to call from enviroment variable
+SPRING_PROFILES_ACTIVE=pro(pass inside the enviroment)
+
+//SPRING_PROFILES_ACTIVE=pro(pass that in that enviroment varribale )
